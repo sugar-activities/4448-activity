@@ -1,0 +1,11 @@
+activity/activity.info
+activity/minivmac.svg
+bin/minivmac-activity
+lib/libsugarize.so
+NEWS
+README
+MANIFEST
+makexo
+minivmac
+vMac.ROM
+vMac.DSK.gz

@@ -1,0 +1,6 @@
+[Activity]
+name = Mini vMac
+activity_version = 1
+service_name = org.sf.minivmac
+icon = minivmac
+exec = minivmac-activity

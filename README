@@ -1,0 +1,8 @@
+Press Ctrl-F to toggle a larger screen.
+To quit, select "Shut Down" from the "Special" menu. then press Ctrl-Q.
+
+Based on "mini vMac":
+http://minivmac.sf.net/
+
+Sugarized using Albert Cahalan's sugarize library:
+http://dev.laptop.org/git?p=users/albert/sugarize
